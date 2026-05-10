@@ -1,0 +1,11 @@
+{
+    "include": [
+        {
+            "keyboard": "tbhorn40",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=\"-DAUTO_KDK_TRACKBALL_ENABLED\"",
+            "name": "tbhorn40_vial"
+        }
+    ]
+}
